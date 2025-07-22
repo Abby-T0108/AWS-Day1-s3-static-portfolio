@@ -24,4 +24,4 @@ Tech Used
 
 About Me
 Abby Oluwole – Cloud Infrastructure & Security Engineer  
-[LinkedIn](https://linkedin.com/in/abby-oluwole-462190258) | [GitHub](https://github.com/Abby-T0108)
+[LinkedIn](https://www.linkedin.com/in/abby-oluwole-66885733b) | [GitHub](https://github.com/Abby-T0108)
